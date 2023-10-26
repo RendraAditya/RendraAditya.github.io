@@ -1,4 +1,5 @@
 # Welcome
+Ajarin dong puh Sepuh🙏
 
 ![about-img](https://github.com/RendraAditya/Rendraaditya.github.io/assets/148983079/a79cd32c-d183-44ea-b90a-9ae5e04961bd)
 
