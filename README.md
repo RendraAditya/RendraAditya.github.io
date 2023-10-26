@@ -1,7 +1,8 @@
 # Welcome
 Ajarin dong puh Sepuh🙏
 
-![about-img](https://github.com/RendraAditya/Rendraaditya.github.io/assets/148983079/a79cd32c-d183-44ea-b90a-9ae5e04961bd)
+![wallpaperflare com_wallpaper](https://github.com/RendraAditya/Rendraaditya.github.io/assets/148983079/2c8c94cc-6cb8-42ae-8b81-72d82f0497a0)
+
 
 ## Tugas Membuat Blog Github
 Nama : Rendra Aditya Erwanda
