@@ -11,5 +11,5 @@ Kelas: Informatika 1A
 
 
 ## Materi Arsikom 
-[Tugas Arsikom Devices](https://rendraaditya.github.io/rendraaditya12.github.io/)
+1. [Tugas Arsikom Devices](https://rendraaditya.github.io/rendraaditya12.github.io/)
 
